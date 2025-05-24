@@ -23,6 +23,8 @@ Another turnkey installation option is to run this on a Heroku worker dyno. You 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/heroku/node-js-getting-started)
+
 ## Installation in general
 
 1. Install [Node].
