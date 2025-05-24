@@ -21,9 +21,9 @@ The easiest installation mode is to set up an instance of Nightscout [cgm-remote
 
 Another turnkey installation option is to run this on a Heroku worker dyno. You may find this more reliable than Azure. Follow the [Share2 Bridge instructions for Heroku], substituting this repo for `share2nightscout-bridge`.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template="https://github.com/olivier-dm/minimed-connect-to-nightscout/blob/master")
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template="https://github.com/olivier-dm/minimed-connect-to-nightscout/")
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template="https://github.com/olivier-dm/minimed-connect-to-nightscout")
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/olivier-dm/minimed-connect-to-nightscout/blob/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/olivier-dm/minimed-connect-to-nightscout/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/olivier-dm/minimed-connect-to-nightscout)
 
 ## Installation in general
 
